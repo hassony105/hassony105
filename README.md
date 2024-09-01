@@ -51,9 +51,9 @@ I'm a passionate mobile developer specializing in Flutter and Dart, with a keen 
 [![Website](https://img.shields.io/badge/-Hassony-FF7139?logo=htmx&logoColor=white&style=flat)](https://www.hassony.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/hassony105)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/hassony_105)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/hassony.105)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://facebook.com/hassony.105)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat)](https://t.me/hassony_105)
+[![Instagram](https://img.shields.io/badge/-Instagram-181717?logo=instagram&logoColor=white&style=flat)](https://instagram.com/hassony.105)
+[![Facebook](https://img.shields.io/badge/-FaceBook-181717?logo=facebook&logoColor=white&style=flat)](https://facebook.com/hassony.105)
+[![Telegram](https://img.shields.io/badge/-Telegram-181717?logo=telegram&logoColor=white&style=flat)](https://telegram.me/hassony_105)
 
 ---
 
@@ -61,11 +61,11 @@ I'm a passionate mobile developer specializing in Flutter and Dart, with a keen 
 
 <div align="center">
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/hassony105)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hassony105&show_icons=true&theme=radical)](https://github.com/hassony105)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/hassony105)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassony105&layout=compact&theme=radical)](https://github.com/hassony105)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical)](https://github.com/hassony105)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hassony105&theme=radical)](https://github.com/hassony105)
 
 </div>
 
