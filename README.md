@@ -71,12 +71,6 @@ I'm a passionate mobile developer specializing in Flutter and Dart, with a keen 
 
 ---
 
-## 🖼️ Random Dev Meme
-
-![Random Dev Meme](https://rm.up.railway.app/)
-
----
-
 **💡 "Continuous learning and improvement are the keys to success in technology."**
 
 Let's build something amazing together! 🚀
